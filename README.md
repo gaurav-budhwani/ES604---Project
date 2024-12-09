@@ -16,3 +16,6 @@ Key Parameters:
 
 1.  Reynolds number, Nusselt number, Prandtl number.
 2.  Heat transfer coefficient and flow dynamics correlations.
+
+## Acknowledgments
+Special thanks to Prof. Hari Ganesh for his guidance and support.
